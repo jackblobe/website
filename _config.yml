@@ -23,7 +23,7 @@ email: jack.lobe@alumni.ubc.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Environment, Society, Business, Leadership
 baseurl: ""
-url: "https://jackblobe.github.io/"
+url: "https://jackblobe.github.io/website/"
 show_exerpts: false
 linkedin_username: jacklobe
 twitter_username: Data_Sci_Jack
