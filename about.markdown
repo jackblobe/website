@@ -6,7 +6,7 @@ permalink: /about/
 
 I recently completed my Bachelor of Science in Envrionmental Science at the University of British Columbia with a focus on terrestrial water, ocean water and air. Pivoting to a focus on data science through R in my last two years of my degree allowed me to peak into the world of data and the insights it provides in important hydrogeologic functions, weather conditions and ocean circulation. This culminated in my final year to making an 80 year climate model using Python for the Pacific Northwest when studying vegitation pattern changes within Burns Bog. In my most recent adventure, I am obtaining a diploma from Lighthouse Labs in Data Science, and developing my love for data science, and in particular the power machine learning and deep learning has to improve our understanding of earth systems.
 
-![photo](/Users/jacklobe/lighthouse/website/datascijack/_site/bog.jpg)
+![photo](/assets/IMG_4702.jpg)
 
 #### I also consider myself to be:
 
