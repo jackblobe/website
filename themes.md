@@ -9,7 +9,7 @@ I want to write about what I care about. This means curating my strong convictio
 Right now, the topics that interest me deeply relate to business, society, leadership and data science.
 
 ## Environment
-This was my first love. I remember choosing business as the first playground I wanted to learn in because of the potential to use business to shape society, ultimately improving it. This has led me to completing a Bachelor of Commerce (Honours) at the University of British Columbia and kicking off my career by working at McKinsey & Company. Five years and some jobs later, I still believe in the potential of business for good but have also witnessed how business can be misused and misunderstood. 
+This was my first calling. Environmental science drove me to ask the important questions, and dive deeper into subjects of geohydrology, pest management, and ocean chemistry. Whenever a new subject appeared, I found the details amazing. What the earth is capable of through evolution continues to amaze me. 
 
 Topics I have some experience with and/or have continuing interest:
 - Hydrogeology
@@ -21,7 +21,7 @@ Topics I have some experience with and/or have continuing interest:
 
 
 ## Society
-I believe that business is given a social license to operate by society and that business should benefit society. I also believe that business cannot achieve all that society needs which is where policy and civic engagement come in. 
+I believe business and society are closely linked. Without an emphasis on important needs within society, the human environment will never be comfortable. As we increase equality among people, especially through the leveraging of large data, we will be able to increase the quality of society, and with it, the environment. 
 
 Topics I have some experience with and/or have continuing interest:
 - Food and Water security
@@ -31,13 +31,13 @@ Topics I have some experience with and/or have continuing interest:
 
 
 ## Data Science
-I was trained as a business analyst but found the techniques and tools I used lacking. We know that data science concepts and tools have applications in the "big data" regime, uncovering patterns in vast amounts of data that you and I and our laptops cannot possible store or process. What I have come to understand through pursing a Masters in Data Science is that data science may be the most immediately applicable and accessible for business in the "small data" world, helping formalize an experimental mindset as well as in quantifying uncertainty. 
+I was trained in environmental science and data analysis using R, but found my skills lacking. We know that data science concepts and tools have applications in the "big data" regime, uncovering patterns in vast amounts of data that you and I and our laptops cannot possible store or process. What I have come to understand through pursing a diploma in Data Science with Lighthouse Labs is that data science may be the most immediately applicable and accessible for business hoping to leverage environmental processes, including mining companies, oceanographers, and renewable energy companies. 
 
 Topics I have some experience with and/or have continuing interest:
 - Discriminatory bias perpetuated by AI / ML algorithms
-- Experimental design in business
 - Purpose-driven data visualization
 - AI / ML for non-tech native companies
 - AI / ML explainability
-- Data science workflows as a part of business processes
-- Data literacy as a part of organizational cultures
+- Data science workflows as a part of environmental consulting
+- Data literacy as a part of environmental consulting
+
