@@ -4,9 +4,15 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Under construction....
 
-## Master of Data Science projects
+## Data Science projects
+
+- **Microtransit and its Impact on Communities within the US**\| [GitHub repo](https://github.com/jackblobe/Spare_Ridership)
+    - Investigated the impact of microtransit within the US using ridership data from Spare Labs inc. 
+    - Created GeoJsons out of census data to fence riders into census block groups
+    - visualized data using Kepler, Folium and Seaborn
+    - Created a time series forcast, and wait time predictor for riders.
+    - Currently constructing deep spatio temporal demand forcast. 
 
 - **Climate Model** \| [GitHub repo](https://github.com/jackblobe/Climate_Models_ENVR400)
     - Completed as a part of Masters of capstone project on changing vegitation patterns within Burns Bog. 
