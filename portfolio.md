@@ -17,7 +17,7 @@ permalink: /portfolio/
 - **Climate Model** \| [GitHub repo](https://github.com/jackblobe/Climate_Models_ENVR400)
     - Completed as part of capstone project to study vegitation patters within Burns Bog.
     -Using CESM data, I created change of temperature and precipitation predictions for the pacific northwest, at the finest resolution available. 
-    -Coupling this with data collected on site, used DBSCAN to identify clusters of boundary zones and predicted how it will change with the climate. (cannot comit the R code for this, now part of UBC environmental science program, but full essay can be see here:\| [Publication](https://open.library.ubc.ca/cIRcle/collections/undergraduateresearch/52966/items/1.0390363)
+    -Coupling this with data collected on site, used DBSCAN to identify clusters of boundary zones and predicted how it will change with the climate. (cannot comit the R code for this, now part of UBC environmental science program, but full essay can be see here: [Publication](https://open.library.ubc.ca/cIRcle/collections/undergraduateresearch/52966/items/1.0390363)
     - Status: Complete
 
 
