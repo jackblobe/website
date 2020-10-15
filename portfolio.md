@@ -16,12 +16,13 @@ permalink: /portfolio/
 
 - **Climate Model** \| [GitHub repo](https://github.com/jackblobe/Climate_Models_ENVR400)
     - Completed as a part of Masters of capstone project on changing vegitation patterns within Burns Bog. 
-    - Status: complete
+    - Status: Complete
 
 
-- **Flight Delay Predictor and Classifier** \| [GitHub repo](https://github.com/jackblobe/Lighthouse_Midterm)
-    - Completed as a part of my diploma in Lighthouse labs with one teammate. 
-    - Status: In progress
-    - Next steps: tie in further use of weather and regionality in hopes of improving prediction ability, play with bootstrapping values to increase the ROC-AUC score of the cancellation classifier, and bootstrap/change sampling to be more respresentative of all delay types for delay type classifier. 
+- **Flight Delay Predictor and Classifier** \| [GitHub repo](https://github.com/jackblobe/FlightDelayPrediction)
+    - Using randomforest regression predicted delay for flights in Janurary of 2020 within the United states. EDA was can be seen in exploratory analysis notebook.  
+    - Status: Complete
+    - Given error within the model, tying in time series into delay would be a useful way to reduce error. Futher, given the size of the data set, deep learning with tensor dimensions being grids of the US with given size in km could provide a more accurate prediction given the features created. 
+    - Classifier bias reduced through bootstrapping and SMOTE, in the end, as it often does for my projects, bootstrapping created better predictions with less of a bias variance trade off.  
 
 
